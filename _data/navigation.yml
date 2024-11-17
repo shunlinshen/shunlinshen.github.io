@@ -10,12 +10,12 @@ main:
 
   - title: "Talks"
     url: /talks/    
-<!--
 
-  - title: "Teaching"
+
+  - title: "A"
     url: /teaching/    
 
-  - title: "Portfolio"
+  - title: "B"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -27,4 +27,3 @@ main:
   - title: "Guide"
     url: /markdown/
     
-    -->
