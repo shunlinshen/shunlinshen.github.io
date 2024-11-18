@@ -2,7 +2,7 @@
 title: "The rigorous derivation of the T2 focusing cubic NLS from 3D"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-15
 venue: 'Journal of Functional Analysis'
