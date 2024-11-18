@@ -9,8 +9,7 @@ main:
  - title: "Publications1"
     url: /publications/
 
-  - title: "Publications2"
-    url: /publications.shunlinshen/
+
 
   - title: "Talks"
     url: /talks/
