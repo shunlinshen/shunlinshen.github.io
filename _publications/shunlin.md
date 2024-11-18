@@ -1,7 +1,6 @@
 ---
-collection:  publications
-category:  manuscripts
-permalink: /shunlin
+layout: default
+title: "My Page"
 ---
 
 # Hello World
