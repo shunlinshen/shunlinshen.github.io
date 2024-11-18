@@ -6,6 +6,9 @@
 
 main:
   - title: "Publications"
+    url: /_publications.shunlinshen/
+
+    - title: "Publications2"
     url: /publications.shunlinshen/
 
   - title: "Talks"
