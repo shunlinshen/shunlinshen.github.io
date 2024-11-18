@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Shunlin Shen"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Shunlin Shen"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Assistant professor, at School of Mathematical Sciences, University of Science and Technology of China"
   location         : "Hefei, Anhui, 230026, China"
-  employer         : "University of Science and Technology of China"
+  employer         : #"University of Science and Technology of China"
   uri              : # URL
   email            : "slshen@ustc.edu.cn" 
 
