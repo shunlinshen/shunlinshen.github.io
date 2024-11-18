@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "My Page"
-collection: publications
 category: manuscripts
 ---
 
