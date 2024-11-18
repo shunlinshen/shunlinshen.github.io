@@ -21,7 +21,7 @@ repository               : "shunlinshen/shunlinshen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shunlinshen.png"
   name             : "Shunlin Shen"
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor, School of Mathematical Sciences, University of Science and Technology of China"
