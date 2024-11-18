@@ -10,6 +10,7 @@ categories:
 tags:
   - Hello
   - World
+permalink: /shunlin
 ---
 
 # Hello World
