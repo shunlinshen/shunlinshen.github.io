@@ -26,7 +26,7 @@ Education
  
 Visiting Experience
 ======
-* University of Rochester, NY, USA.
+* University of Rochester, NY, USA
  
  
 Selected Honors/Awards
