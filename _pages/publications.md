@@ -15,15 +15,15 @@ Publications and Preprints
 ======
 1. Shunlin Shen, The rigorous derivation of the $\mathbb{T}^{2}$ focusing cubic NLS from 3D, *Journal of Functional Analysis*, 280(8):108934, 72pp, 2021. [DOI](https://doi.org/10.1016/j.jfa.2021.108934)
 
-2. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, The unconditional uniqueness for the energy-supercritical NLS, *Annals of PDE*, 8, Article 14, 82pp, 2022. [DOI](https://doi.org/10.1007/s00030-022-00571-2)
+2. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, The unconditional uniqueness for the energy-supercritical NLS, *Annals of PDE*, 8, Article 14, 82pp, 2022. [DOI]([https://doi.org/10.1007/s00030-022-00571-2](https://link.springer.com/article/10.1007/s40818-022-00130-9))
 
-3. Xuwen Chen, Shunlin Shen, Jiahao Wu, and Zhifei Zhang, The derivation of the compressible Euler equation from quantum many-body dynamics, *Peking Mathematical Journal*, 7(1):35-90, 56pp, 2024. [DOI](https://doi.org/10.1007/s41001-023-00108-5)
+3. Xuwen Chen, Shunlin Shen, Jiahao Wu, and Zhifei Zhang, The derivation of the compressible Euler equation from quantum many-body dynamics, *Peking Mathematical Journal*, 7(1):35-90, 56pp, 2024. [DOI](https://link.springer.com/article/10.1007/s42543-023-00066-4)
 
-4. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Quantitative derivation of the Euler-Poisson equation from quantum many-body dynamics, *Peking Mathematical Journal*, 7(2):643-711, 69pp, 2024. [DOI](https://doi.org/10.1007/s41001-024-00112-0)
+4. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Quantitative derivation of the Euler-Poisson equation from quantum many-body dynamics, *Peking Mathematical Journal*, 7(2):643-711, 69pp, 2024. [DOI](https://link.springer.com/article/10.1007/s42543-023-00065-5)
 
 5. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, On the mean-field and semiclassical limit from quantum N-body dynamics, arXiv:2304.03447, 40pp, 2023. [arXiv](https://arxiv.org/abs/2304.03447)
 
-6. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Well/Ill-posedness of the Boltzmann equation with soft potential, To appear in *Communications in Mathematical Physics*, 51pp, 2024. [DOI](https://doi.org/10.1007/s00220-024-04895-3)
+6. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Well/Ill-posedness of the Boltzmann equation with soft potential, *Communications in Mathematical Physics*, Article 283, 1-51, 51pp, 2024. [DOI](https://link.springer.com/10.1007/s00220-024-05157-6)
 
 7. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Sharp global well-posedness and scattering of the Boltzmann equation, arXiv 2311.02008, 42pp, 2023. [arXiv](https://arxiv.org/abs/2311.02008)
 
