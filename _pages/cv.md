@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Position
+======
+* School of Sciences and Mathematics, University of Science and Technology of China, Hefei, Anhui, 230026, China
+  * Assistant Professor, 2024/07 - present
+* School of Sciences and Mathematics, Peking University, Beijing, 100871, China
+  * Boya Postdoctoral Fellow , 2022/07 - 2024/07
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Peking University, Beijing, China
+  * Ph.D. Pure Mathematics, 2017/09 - 2022/07
+  * Advisors: Professors Xuwen Chen \& Zhifei Zhang
+* Sichuan University, Chengdu, China
+  * B.S. Mathematics, 2013/09 - 2017/07
+ 
   
-Skills
+ 
+ 
+Selected Honors/Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The 5th National Excellent Paper Award for Young PDE Scholars of China, 2022
+* Excellent doctoral dissertation, Peking University, 2022
+* President Scholarship, Peking University, 2020-2022
+* National Scholarship, Peking University, 2020-2021
+* National Scholarship, Sichuan University, 2015-2016
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
