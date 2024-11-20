@@ -20,11 +20,13 @@ Education
 ======
 * Peking University, Beijing, China
   * Ph.D. Pure Mathematics, 2017/09 - 2022/07
-  * Advisors: Professors Xuwen Chen \& Zhifei Zhang
+  * Advisors: Professors Xuwen Chen & Zhifei Zhang
 * Sichuan University, Chengdu, China
   * B.S. Mathematics, 2013/09 - 2017/07
  
-  
+Visiting Experience
+======
+* University of Rochester, NY, USA.
  
  
 Selected Honors/Awards
