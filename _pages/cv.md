@@ -36,5 +36,7 @@ Selected Honors/Awards
 * President Scholarship, Peking University, 2020-2022
 * National Scholarship, Peking University, 2020-2021
 * National Scholarship, Sichuan University, 2015-2016
+* Honors Graduation Award, Peking University & Beijing, 2022
+* Honors Graduation Award, Sichuan University, 2017
 
 
