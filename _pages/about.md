@@ -12,11 +12,11 @@ Research interests: Analysis, Paritial Differential Equations, Mathematical Phys
 
 Related topics: 
 
-*quantum mean-field limit of many-body dynmaics; 
+* Quantum mean-field limit of quantum many-body dynamics. 
 
-*semiclassical limit; 
+* Semiclassical limit problems.
 
-*the well-posedness problems of the limiting equation including nonlinear Schroedinger equations, fluids equations, kinetic equations, etc.
+* Well-posedness problems of the limit equations, such as nonlinear Schroedinger equations, Boltzmann equations, etc.
 
 
 Email: slshen@ustc.edu.cn & slshen@pku.edu.cn
