@@ -24,10 +24,13 @@ Education
 * Sichuan University, Chengdu, China
   * B.S. Mathematics, 2013/09 - 2017/07
  
-Visiting Experience
+Visiting 
 ======
 * University of Rochester, NY, USA
- 
+
+Teaching 
+======
+* Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09-2025/01
  
 Selected Honors/Awards
 ======
