@@ -15,7 +15,7 @@ Publications and Preprints
 ======
 1. Shunlin Shen, The rigorous derivation of the $\mathbb{T}^{2}$ focusing cubic NLS from 3D, *Journal of Functional Analysis*, 280(8):108934, 72pp, 2021. [DOI](https://doi.org/10.1016/j.jfa.2021.108934)
 
-2. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, The unconditional uniqueness for the energy-supercritical NLS, *Annals of PDE*, 8, Article 14, 82pp, 2022. [DOI]([https://doi.org/10.1007/s00030-022-00571-2](https://link.springer.com/article/10.1007/s40818-022-00130-9))
+2. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, The unconditional uniqueness for the energy-supercritical NLS, *Annals of PDE*, 8, Article 14, 82pp, 2022. [DOI](https://link.springer.com/article/10.1007/s40818-022-00130-9)
 
 3. Xuwen Chen, Shunlin Shen, Jiahao Wu, and Zhifei Zhang, The derivation of the compressible Euler equation from quantum many-body dynamics, *Peking Mathematical Journal*, 7(1):35-90, 56pp, 2024. [DOI](https://link.springer.com/article/10.1007/s42543-023-00066-4)
 
