@@ -19,7 +19,9 @@ Related topics:
 * Well-posedness problems of the limit equations, such as nonlinear Schroedinger equations, Boltzmann equations, etc.
 
 
-Email: slshen@ustc.edu.cn & slshen@pku.edu.cn
+Email: slshen@ustc.edu.cn
+
+  or:  slshen@pku.edu.cn
 
 <!--
 Here is my [CV](/assets/CV.ShunlinShen.pdf).
