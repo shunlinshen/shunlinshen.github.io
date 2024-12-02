@@ -30,7 +30,7 @@ Visiting
 
 Teaching 
 ======
-* Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09-2025/01
+* Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09 - 2025/01
  
 Selected Honors/Awards
 ======
@@ -39,7 +39,8 @@ Selected Honors/Awards
 * President Scholarship, Peking University, 2020-2022
 * National Scholarship, Peking University, 2020-2021
 * National Scholarship, Sichuan University, 2015-2016
-* Honors Graduation Award, Peking University & Beijing, 2022
+* Honors Graduation Award, Beijing, 2022
+* Honors Graduation Award, Peking University, 2022
 * Honors Graduation Award, Sichuan University, 2017
 
 
