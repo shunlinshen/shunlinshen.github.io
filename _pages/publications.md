@@ -27,7 +27,7 @@ Publications and Preprints
 
 7. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Sharp global well-posedness and scattering of the Boltzmann equation, arXiv 2311.02008, 42pp, 2023. [arXiv](https://arxiv.org/abs/2311.02008)
 
-8. Shunlin Shen and Jiahao Wu, Quantum mean-field limit to the compressible fluids, *Frontiers of Mathematics*, 20:721–752, 31pp, 2025. [DOI](https://link.springer.com/article/10.1007/s11464-024-0043-3)
+8. Shunlin Shen and Jiahao Wu, Quantum mean-field limit to the compressible fluids, *Frontiers of Mathematics*, 20:721–752, 32pp, 2025. [DOI](https://link.springer.com/article/10.1007/s11464-024-0043-3)
 
 9. Xuwen Chen, Shunlin Shen, Ping Zhang, and Zhifei Zhang, Global derivation of the 1D Vlasov-Poisson equation from quantum many-body dynamics with screened Coulomb potential, arXiv 2408.14767, 46pp, 2024. [arXiv](https://arxiv.org/abs/2408.14767)
 
