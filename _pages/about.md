@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is Shunlin Shen. I am now an assistant professor at School of Mathematical Sciences, University of Science and Technology of China. Before joining USTC, I was a Boya Postdoctoral Fellow at Peking University. I received my Ph.D. in Mathematics from Peking University in June 2022. 
 
-Research interests: Analysis, Paritial Differential Equations, Mathematical Physics.
+Research interests: Analysis, Partial Differential Equations, Mathematical Physics.
 
 Related topics: 
 
