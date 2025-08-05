@@ -32,7 +32,7 @@ Visiting
 Teaching 
 ======
 * Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09 - 2025/01
-* Applied Mathematics (China-France, Exercises), Undergraduate, USTC, 2025/02 -2025/06
+* Applied Mathematics (China-France, Exercises), Undergraduate Course, USTC, 2025/02 -2025/06
  
 Selected Honors/Awards
 ======
