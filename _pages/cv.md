@@ -27,12 +27,12 @@ Education
 Visiting 
 ======
 * University of Rochester, NY, USA
-* The Chinese University of Hong Kong， HK， China
+* The Chinese University of Hong Kong, HK, China
 
 Teaching 
 ======
 * Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09 - 2025/01
-* Applied Mathematics (China-France), Undergraduate, USTC, 2025/02 -2025/06
+* Applied Mathematics (China-France, Exercises), Undergraduate, USTC, 2025/02 -2025/06
  
 Selected Honors/Awards
 ======
