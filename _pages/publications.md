@@ -34,3 +34,5 @@ Publications and Preprints
 10. Jacky Chong, Shunlin Shen, and Zhifei Zhang, Derivation of the compressible Euler equations from the dynamics of interacting Bose gas in the hard-core limit regime, arXiv2409.14812, 95pp, 2024. [arXiv](https://arxiv.org/abs/2409.14812)
 
 11. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, $l^{2}$-decoupling and the unconditional uniqueness for the Boltzmann equation, arXiv 2501.14697, 31pp, 2025. [arXiv](https://arxiv.org/abs/2501.14697)
+
+12. Renjun Duan, Shuangqian Liu, and Shunlin Shen, Global stability of the inhomogeneous sheared Boltzmann equation in torus,  arXiv 2509.13921, 39pp, 2025. [arXiv]([https://arxiv.org/abs/2501.14697](https://arxiv.org/abs/2509.13921))
