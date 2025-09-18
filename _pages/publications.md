@@ -13,7 +13,7 @@ author_profile: true
 
 Publications and Preprints
 ======
-1. Shunlin Shen, The rigorous derivation of the $\mathbb{T}^{2}$ focusing cubic NLS from 3D, *Journal of Functional Analysis*, 280(8):108934, 72pp, 2021. [DOI](https://doi.org/10.1016/j.jfa.2021.108934)
+1. Shunlin Shen, The rigorous derivation of the $ \mathbb{T}^{2 $ focusing cubic NLS from 3D, *Journal of Functional Analysis*, 280(8):108934, 72pp, 2021. [DOI](https://doi.org/10.1016/j.jfa.2021.108934)
 
 2. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, The unconditional uniqueness for the energy-supercritical NLS, *Annals of PDE*, 8, Article 14, 82pp, 2022. [DOI](https://link.springer.com/article/10.1007/s40818-022-00130-9)
 
@@ -33,6 +33,6 @@ Publications and Preprints
 
 10. Jacky Chong, Shunlin Shen, and Zhifei Zhang, Derivation of the compressible Euler equations from the dynamics of interacting Bose gas in the hard-core limit regime, arXiv2409.14812, 95pp, 2024. [arXiv](https://arxiv.org/abs/2409.14812)
 
-11. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, $l^{2}$-decoupling and the unconditional uniqueness for the Boltzmann equation, arXiv 2501.14697, 31pp, 2025. [arXiv](https://arxiv.org/abs/2501.14697)
+11. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, $ l^{2} $-decoupling and the unconditional uniqueness for the Boltzmann equation, arXiv 2501.14697, 31pp, 2025. [arXiv](https://arxiv.org/abs/2501.14697)
 
 12. Renjun Duan, Shuangqian Liu, and Shunlin Shen, Global stability of the inhomogeneous sheared Boltzmann equation in torus,  arXiv 2509.13921, 39pp, 2025. [arXiv](https://arxiv.org/abs/2509.13921)
