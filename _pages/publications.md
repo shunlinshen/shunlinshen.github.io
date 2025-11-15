@@ -37,5 +37,5 @@ Publications and Preprints
 
 12. Renjun Duan, Shuangqian Liu, and Shunlin Shen, Global stability of the inhomogeneous sheared Boltzmann equation in torus,  arXiv 2509.13921, 39pp, 2025. [arXiv](https://arxiv.org/abs/2509.13921)
 
-13. Qi Chen, Hao Li, Shunlin Shen, and Zhifei Zhang, Asymptotic stability of the symmetric flow via inviscid damping and enhanced dissipation, arXiv:2510.18361v1, 64pp, 2025. [arXiv](https://arxiv.org/abs/2510.18361v1)
+
     
