@@ -33,6 +33,8 @@ Teaching
 ======
 * Advanced real analysis, Undergraduate & Graduate Courses, USTC, 2024/09 - 2025/01
 * Applied Mathematics (China-France, Exercises), Undergraduate Courses, USTC, 2025/02 -2025/06
+* Topics in Partial Differential Equations, Graduate Courses, USTC, 2025/09 -2026/01
+* Topics in Partial Differential Equations, Graduate Courses, USTC, 2025/09 -2026/01
  
 Selected Honors/Awards
 ======
