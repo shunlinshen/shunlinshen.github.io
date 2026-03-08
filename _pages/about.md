@@ -16,7 +16,7 @@ Related topics:
 
 * Semiclassical limit problems.
 
-* Well-posedness problems of the limit equations, such as nonlinear Schr\"{o}dinger equations, Boltzmann equations, Navier-Stokes equations etc.
+* Well-posedness and stability theories for nonlinear PDEs (e.g., Schrödinger, Boltzmann, Navier-Stokes).
 
 
 Email: slshen@ustc.edu.cn
