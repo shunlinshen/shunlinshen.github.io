@@ -27,7 +27,7 @@ Publications and Preprints
 
 7. Shunlin Shen and Jiahao Wu, Quantum mean-field limit to the compressible fluids, *Frontiers of Mathematics*, 20:721–752, 32pp, 2025. [DOI](https://link.springer.com/article/10.1007/s11464-024-0043-3)
 
-8. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, $l^{2}$-decoupling and the unconditional uniqueness for the Boltzmann equation, accepted to appear in *Communications in Mathematical Physics*, arXiv 2501.14697, 31pp, 2025. [arXiv](https://arxiv.org/abs/2501.14697)
+8. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, $l^{2}$-decoupling and the unconditional uniqueness for the Boltzmann equation,  *Communications in Mathematical Physics*, Article 115, 1-31, 31pp, 2026. [DOI]([https://link.springer.com/10.1007/s00220-024-05157-6](https://link.springer.com/article/10.1007/s00220-026-05614-4))
 
 9. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Sharp global well-posedness and scattering of the Boltzmann equation, arXiv 2311.02008, 42pp, 2023. [arXiv](https://arxiv.org/abs/2311.02008)
 
