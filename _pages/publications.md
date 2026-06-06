@@ -43,7 +43,7 @@ arXiv 2510.18361, 64pp, 2025. [arXiv](https://arxiv.org/abs/2510.18361)
 14. Zhen Li, Shunlin Shen, and Zhifei Zhang, Asymptotic stability threshold of the 2-D monotone shear flow with no-slip boundary condition, arXiv
 2603.01797, 34pp, 2026. [arXiv](https://arxiv.org/abs/2603.01797)
 
-15. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Sharp $H_{x}^{s}$ ill-posedness of the hard-sphere Boltzmann equation, arXiv 2311.02008, 41pp, 2026. [arXiv](https://arxiv.org/abs/2606.01331)
+15. Xuwen Chen, Shunlin Shen, and Zhifei Zhang, Sharp $H_{x}^{s}$ ill-posedness of the hard-sphere Boltzmann equation, arXiv 2606.01331, 41pp, 2026. [arXiv](https://arxiv.org/abs/2606.01331)
 
  
 
