@@ -43,6 +43,15 @@ arXiv 2510.18361, 64pp, 2025. [arXiv](https://arxiv.org/abs/2510.18361)
 14. Zhen Li, Shunlin Shen, and Zhifei Zhang, Asymptotic stability threshold of the 2-D monotone shear flow with no-slip boundary condition, arXiv
 2603.01797, 34pp, 2026. [arXiv](https://arxiv.org/abs/2603.01797)
 
+15. Xuwen Chen, Yan Guo, Shunlin Shen, and Zhifei Zhang, Sharp $H_{x}^{s}$ Ill-posedness of the Hard-sphere Boltzmann Equation, arXiv
+2606.01331 , 41pp, 2026. [arXiv](https://arxiv.org/abs/2606.01331)
+
+16. Shunlin Shen and Yuzhao Wang, Norm inflation for the cubic hyperbolic NLS on $\mathbb{T}^{2}$, arXiv
+2606.19309, 22pp, 2026. [arXiv](https://arxiv.org/abs/2606.19309) 
+
+17. Shunlin Shen, Unconditional Uniqueness for the Energy-critical and Energy-supercritical Quadratic NLS, arXiv
+2607.07155, 33pp, 2026. [arXiv](https://arxiv.org/abs/2607.07155)
+
 
 
  
